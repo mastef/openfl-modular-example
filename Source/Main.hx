@@ -34,8 +34,6 @@ class Main extends Sprite {
 		fps = new FPS ();
 		addChild (fps);
 		
-		stage.addEventListener (Event.ENTER_FRAME, stage_onEnterFrame);
-		
 		var a = new Module1();
 	}
 	

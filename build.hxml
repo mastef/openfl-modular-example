@@ -9,3 +9,4 @@
 -lib hxgenjs
 --no-inline
 -debug
+--times
