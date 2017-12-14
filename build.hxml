@@ -1,0 +1,11 @@
+-main Main
+-js comp/entry.js
+-cp node_modules/openfl/lib
+-cp Source
+-D openfljs
+-D lime-opengl
+-D es5get
+-D html5
+-lib hxgenjs
+--no-inline
+-debug
