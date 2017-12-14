@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
 	<meta title="ModulesProject" package="com.sample.modulesproject" version="1.0.0" company="Company Name" />
@@ -29,4 +29,4 @@
 
 	<assets path="Assets" rename="assets" />
 	
-</project>
+</project> -->

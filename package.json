@@ -1,0 +1,19 @@
+{
+  "name": "openfl-js-modular-webpack-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "openfl": "*",
+    "express": "^4.16.2",
+    "webpack": "^3.10.0",
+    "clean-webpack-plugin": "^0.1.17",
+    "html-webpack-plugin": "^2.30.1",
+    "uglifyjs-webpack-plugin": "^1.1.3",
+    "webpack-dev-middleware": "^2.0.1",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "scripts": {
+    "build": "haxe build.hxml",
+    "webpack" : "webpack --display-error-details",
+    "test": "npm run build && node server.js"
+  }
+}
