@@ -1,14 +1,11 @@
-package;
+package fla.items;
 
 
-class Module1 {
+class Item2 {
 	
 	public function new () {
 		var a = new Module2();
 		trace("1 loaded");
-
-		new game.Game1();
-		new fla.Common1();
 	}
 	
 }
